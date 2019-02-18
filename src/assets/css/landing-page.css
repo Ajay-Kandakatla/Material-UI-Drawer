@@ -1,0 +1,16 @@
+#landing-page img {
+    height: 100%;
+}
+
+#landing-page p:first-of-type {
+    width: 340px;
+}
+
+#landing-page-left-image {
+    width: 96%;
+}
+
+#landing-page h2 {
+    font-weight: 400;
+    font-size: 3.6rem;
+}

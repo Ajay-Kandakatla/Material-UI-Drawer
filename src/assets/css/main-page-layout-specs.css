@@ -1,0 +1,131 @@
+#main_page_layout_specs #left-nav img, #main_page_layout_specs #bottom-left {
+    min-width: 462px;
+    max-width: 462px;
+}
+
+#main_page_layout_specs .container {
+min-width: 1340px;
+max-width: 1340px;
+}
+
+#main_page_layout_specs #right-nav {
+margin-left: -100px;
+z-index: 1;
+max-width: 768px;
+min-width: 768px;
+}
+
+#main_page_layout_specs #left-nav {
+z-index: 2;
+}
+
+#main_page_layout_specs #left-nav-container {
+margin-top: 90px;
+min-width: 550px;
+max-width: 550px;
+}
+
+#main_page_layout_specs #col-1 {
+position: absolute;
+top: 85px;
+left: -85px;
+}
+
+#main_page_layout_specs #col-2 {
+position: absolute;
+top: 25px;
+left: 85px;
+}
+
+#main_page_layout_specs #col-2 p:nth-child(1) {
+font-size: 1.6em;
+}
+
+#main_page_layout_specs #col-2 p:nth-child(2) {
+margin-top: 28px;
+margin-bottom: 130px;
+}
+
+#main_page_layout_specs #col-2 p:nth-child(3) {
+padding-left: 25px;
+padding-bottom: 13px;
+}
+
+#main_page_layout_specs #col-2 p:nth-child(5) {
+padding-left: 20px;
+padding-bottom: 150px;
+}
+
+#main_page_layout_specs #col-2 p:nth-child(6) {
+padding-left: 45px;
+}
+
+#main_page_layout_specs #col-3 {
+position: absolute;
+top: 40px;
+left: 265px;
+}
+
+#main_page_layout_specs #col-3 p:nth-child(4) {
+padding-top: 80px;
+margin-left: 50px;
+}
+
+#main_page_layout_specs #col-3 p:nth-child(5) {
+padding-top: 70px;
+margin-left: -125px;
+}
+
+#main_page_layout_specs #col-3 p:nth-child(6) {
+padding-top: 65px;
+margin-left: 35px;
+}
+
+#main_page_layout_specs #col-3 p:nth-child(7) {
+padding-top: 55px;
+margin-left: -125px;
+margin-bottom: 80px;
+}
+
+#main_page_layout_specs #col-4 {
+position: absolute;
+top: 80px;
+right: 15px;
+}
+
+#main_page_layout_specs #col-4 p:nth-child(5) {
+padding-top: 40px;
+margin-left: 120px
+}
+
+#main_page_layout_specs #col-4 p:nth-child(6) {
+margin-left: 120px;
+margin-bottom: 95px;
+}
+
+#main_page_layout_specs #col-4 p:nth-child(7) {
+margin-left: 110px;
+}
+
+#main_page_layout_specs #col-4 p:nth-child(8) {
+margin-left: 110px;
+margin-bottom: 50px;
+}
+
+#main_page_layout_specs #col-4 p:nth-child(9) {
+margin-left: 120px;
+}
+
+#main_page_layout_specs #col-4 p:nth-child(10) {
+margin-left: 120px;
+margin-bottom: 90px;
+}
+
+#main_page_layout_specs #col-4 p:nth-child(11) {
+margin-left: 115px;
+margin-bottom: 16px;
+}
+
+#main_page_layout_specs #col-4 p:nth-child(12) {
+margin-left: 30px;
+}

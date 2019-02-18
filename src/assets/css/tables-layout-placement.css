@@ -1,0 +1,47 @@
+#tables_layouts_placements #right-content {
+  background-image: url("../images/tables_layouts_placements/right_nav_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: contain; 
+  min-width: 768px;
+  max-width: 768px;
+  min-height: 615px;
+  max-height: 615px;
+}
+
+#tables_layouts_placements #left-nav {
+  position: absolute;
+  top: 130px;
+}
+
+#tables_layouts_placements #right-nav {
+  position: absolute;
+  left: 165px;
+  top: 50px;
+}
+
+#tables_layouts_placements .container {
+  /* max-width: 1290px; */
+  min-width: 1290px;
+}
+
+#tables_layouts_placements #table {
+  padding-top: 325px;
+  padding-left: 230px;
+}
+
+#tables_layouts_placements #right-nav p:last-child {
+  padding-left: 230px;
+}
+
+#tables_layouts_placements #columns {
+  margin-left: 260px;
+}
+
+#tables_layouts_placements #starts {
+  padding-top: 60px;
+}
+
+#tables_layouts_placements #footer {
+  margin-top: 500px; 
+  /* display: inline-block */
+}

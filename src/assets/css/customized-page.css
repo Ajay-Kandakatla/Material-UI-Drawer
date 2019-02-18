@@ -1,0 +1,46 @@
+#customized-page h2 {
+    padding: 20px;
+    font-weight: 400;
+}
+
+#customized-page h3 {
+    font-weight: 300;
+}
+
+#customized-page #right-content {
+    background-color: #2ed4fd;
+    min-height: 400px;
+}
+
+#customized-page-right-content {
+   
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+#customized-page-mid-content {
+    background-color: #444444; 
+    min-height: 200px;
+    color: #cac8c8;
+}
+
+#customized-page-mid-content ul {
+    list-style-type: none;
+    line-height: 1.6rem!important;
+}
+
+#customized-page #left-content ul {
+  
+    list-style: none;
+    font-size: 20px;
+    line-height: 3rem;
+}
+
+#customized-page #left-content ul li::before {
+    content: '-';
+    position: absolute;
+    margin-left: -25px;
+}

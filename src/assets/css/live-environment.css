@@ -1,0 +1,25 @@
+#live_environment .container {
+    min-width: 1290px;
+    /* max-width: 1290px; */
+  }
+  
+  #live_environment #right-nav img {
+    border: 1px solid rgb(231, 231, 231);
+  }
+  
+  #live_environment #right-nav, #live_environment #left-nav {
+    min-width: 626px;
+    max-width: 626px;
+  }
+  
+  #live_environment #left-nav img {
+    min-width: 357px;
+    max-width: 357px;
+  }
+  
+  #live_environment #tryit {
+    display: inline-block;
+    max-width: 200px;
+    vertical-align: top;
+    margin-top: 115px;
+  }

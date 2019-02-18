@@ -1,0 +1,10 @@
+{
+  "services":[
+    {
+    "id": "demo-ui",
+    "name": "demo-ui",
+    "tags": ["v1_0"],
+    "port": 3000
+    }
+  ]
+}
